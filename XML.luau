@@ -152,7 +152,7 @@ end
 
 task.spawn(function()
     while task.wait(0.3) do
-        if getgenv().Amber.rjow then
+        if getgenv().XML.rjow then
             local warn = GetData(player).Warns
 
             if warn == 3 then
