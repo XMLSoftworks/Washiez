@@ -1,6 +1,6 @@
 --by lnvalidez
 
-if queue_on_teleport then queue_on_teleport(`loadstring(game:HttpGet("https://raw.githubusercontent.com/ImFloriz/Roblox/refs/heads/main/Amber/Washiez.luau"))()`) end
+if queue_on_teleport then queue_on_teleport(`loadstring(game:HttpGet("https://raw.githubusercontent.com/XMLSoftworks/Washiez/refs/heads/main/XML.luau"))()`) end
 
 getgenv().XML = {
     rjow = false,
